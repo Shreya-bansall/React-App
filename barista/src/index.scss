@@ -1,0 +1,13 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Apply some global styles */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7; /* Set your desired background color */
+    color: #333; /* Set your desired text color */
+  }
+  

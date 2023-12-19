@@ -1,0 +1,13 @@
+@import './components/Header/Header';
+@import './components/Carousel/Carousel';
+
+.App {
+  font-family: Arial, sans-serif;
+
+}
+
+.main-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
