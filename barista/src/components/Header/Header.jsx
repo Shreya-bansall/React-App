@@ -10,7 +10,6 @@ const Header = () => {
     'Order In',
     'Vouchers',
     'Contact',
-    // Add more menu items as needed
   ];
 
   const [showMenu, setShowMenu] = useState(false);

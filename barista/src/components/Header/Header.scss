@@ -1,14 +1,12 @@
-/* Variables */
 $primary-color: #333;
 $secondary-color: #666;
 $dropdown-bg-color: #fff;
 $dropdown-hover-bg-color: #f5f5f5;
 $dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 
-/* Header Styles */
+/* Header Style */
 .header {
   background-color: #ffffff;
-  /* Other header styles */
 
   .navbar {
     display: flex;
@@ -19,9 +17,8 @@ $dropdown-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     margin: 0 auto;
 
     .brand {
-      font-size: 24px;
+      font-size: 48px;
       font-weight: bold;
-      /* Brand/logo styles */
     }
 
     .nav-menu {
